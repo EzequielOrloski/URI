@@ -1,2 +1,2 @@
 # URI
-solução problemas URI
+soluções problemas URI
